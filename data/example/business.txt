@@ -1,0 +1,29 @@
+Q: What year was Acme Corp founded?
+A: Acme Corp was founded in 1999.
+
+Q: Where is Acme Corp headquartered?
+A: Acme Corp is headquartered in Seattle, Washington.
+
+Q: What is the mission of Acme Corp?
+A: The mission of Acme Corp is to simplify business processes with reliable and affordable software solutions.
+
+Q: How many employees does Acme Corp have?
+A: As of 2024, Acme Corp employs approximately 500 people worldwide.
+
+Q: What is Acme Corp’s flagship product?
+A: Acme Corp’s flagship product is AcmeSuite, an integrated platform for project management, analytics, and customer engagement.
+
+Q: Who is the CEO of Acme Corp?
+A: The current CEO of Acme Corp is Jane Doe.
+
+Q: What industries does Acme Corp serve?
+A: Acme Corp primarily serves the technology, healthcare, and financial services industries.
+
+Q: What type of support does Acme Corp offer its customers?
+A: Acme Corp offers 24/7 customer support through phone, email, and live chat.
+
+Q: Does Acme Corp have an open-source initiative?
+A: Yes, Acme Corp maintains several open-source projects that are hosted on GitHub.
+
+Q: What awards has Acme Corp won?
+A: Acme Corp has won the Best SaaS Platform Award in 2021 and the Customer Excellence Award in 2023.
