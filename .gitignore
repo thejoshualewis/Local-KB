@@ -1,0 +1,23 @@
+# Folders
+node_modules/
+db/*
+!db/.gitkeep
+data/*
+# But keep the example set
+!data/example/
+!data/example/**
+
+!data/.gitkeep
+.cache/
+logs/
+.DS_Store
+# OS
+.DS_Store
+
+# Env
+.env
+.env.local
+
+# SQLite sidecar files
+*.db-shm
+*.db-wal

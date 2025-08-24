@@ -1,0 +1,11 @@
+Q: Who is credited with inventing the World Wide Web?
+A: Tim Berners-Lee in 1989.
+
+Q: What does CPU stand for?
+A: Central Processing Unit.
+
+Q: What company created the first iPhone?
+A: Apple, in 2007.
+
+Q: What programming language is primarily used for Android app development?
+A: Java (with Kotlin as a modern alternative).

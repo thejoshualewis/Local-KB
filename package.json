@@ -1,0 +1,32 @@
+{
+  "name": "localkb",
+  "version": "1.1.0",
+  "type": "commonjs",
+  "description": "LocalKB: small, self-hosted RAG/LLM with CLI & API",
+  "scripts": {
+    "start": "MODE=hybrid node start.js",
+    "dev": "MODE=hybrid nodemon --quiet server.js",
+
+    "rag:build": "node build.js",
+    "rag:update": "node update.js",
+
+    "llm:build": "node llm-build.js",
+    "llm:update": "node llm-update.js"
+  },
+  "engines": {
+    "node": ">=20.19.4"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.2.0",
+    "body-parser": "^1.20.3",
+    "chokidar": "^4.0.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "glob": "^11.0.3",
+    "ollama": "^0.5.17",
+    "pdf-parse": "^1.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

@@ -1,0 +1,11 @@
+Q: What is the average annual rainfall in Seattle?
+A: About 38 inches per year.
+
+Q: Which season is the warmest in Sydney, Australia?
+A: Summer, which runs from December to February.
+
+Q: Why do deserts get cold at night?
+A: Because dry air holds little heat, so temperatures drop rapidly after sunset.
+
+Q: What scale is used to measure hurricane intensity?
+A: The Saffir–Simpson scale.
